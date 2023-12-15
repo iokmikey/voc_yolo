@@ -1,0 +1,26 @@
+<annotation>
+    <folder>yolo2voc-main</folder>
+    <filename>000_1ov3n5_0_jpeg_jpg.rf.757ad18ada9bc5b64b27b7b9ae5cd258.xml</filename>
+    <path>F:\Machine Learning\voc2yolo\yolo2voc-main\000_1ov3n5_0_jpeg_jpg.rf.757ad18ada9bc5b64b27b7b9ae5cd258.xml</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>416</width>
+        <height>416</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>face</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>112</xmin>
+            <ymin>56</ymin>
+            <xmax>196</xmax>
+            <ymax>164</ymax>
+        </bndbox>
+    </object>
+</annotation>

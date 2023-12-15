@@ -1,0 +1,19 @@
+激活虚拟环境  labelimg_venv
+
+
+yolo2voc-main-》config.py 为配置数据路径  有详细说明
+
+
+
+
+Usage:
+git clone https://github.com/yakhyo/yolo2voc.git
+cd yolo2voc
+pip install -r requirements.txt
+Modify variables in config.py based according to your dataset
+运行方式  必须+ --yolo2voc  即为  什么转化  什么  格式数据
+Run python       main.py --yolo2voc    to convert YOLO to VOC
+Run python       main.py --voc2yolo      to convert VOC to YOLO
+Run python       main.py --voc2yolo_a     to convert VOC to YOLO (absolute)
+
+
